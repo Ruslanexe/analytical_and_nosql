@@ -1,0 +1,6 @@
+connect_device_package.zip
+root-CA.crt
+*.key
+*.pem
+test_thing1-Policy
+start.sh
